@@ -1,1 +1,1 @@
-Reinforcement Learning with Human Feedback is a method that combines the principles of reinforcement learning with the knowledge and guidance provided by human evaluators to improve the learning process of an AI system.
+[args.event.response.summary]
