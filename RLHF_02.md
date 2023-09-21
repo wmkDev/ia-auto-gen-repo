@@ -1,1 +1,1 @@
-[args.event.response.summary]
+Reinforcement Learning with Human Feedback can be used to improve the performance of AI systems by incorporating human expertise and guidance into the learning process.
