@@ -1,1 +1,1 @@
-Reinforcement Learning with Human Feedback summary with bullet list
+Reinforcement learning with human feedback is like when you're learning to ride a bike, and your mom or dad is there to guide you and tell you if you're doing it right or wrong. Instead of just trying things randomly, you listen to their feedback to learn faster and make better decisions. This is similar to how computers can learn with the help of humans giving them feedback, so they can get better at solving problems and making decisions.
