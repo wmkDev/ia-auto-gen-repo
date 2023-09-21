@@ -1,0 +1,1 @@
+According to the Fibonacci sequence, each number is the sum of the two preceding numbers. Assuming the first two numbers are 0 and 1, the 50th number in the Fibonacci sequence can be calculated. To find the 50th number, we start with the values of the 49th and 48th numbers. By adding these numbers together, we obtain the value of the 50th number in the sequence.
