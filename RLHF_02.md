@@ -1,1 +1,1 @@
-[args.event.response.summary]
+Reinforcement learning is a way for computers to learn how to do things by trying and getting better over time, kind of like how you learn to ride a bike. With human feedback, it means that a person helps the computer understand if it's doing something right or wrong, so it can learn even faster and become smarter. It's like when your parents tell you if you're doing a good job or if you need to try something different. This helps the computer learn and improve, just like you do!
