@@ -1,0 +1,3 @@
+- The summary focuses on the concept of Reinforcement Learning with Human Feedback, highlighting the need for human guidance in this field.
+- The commit message humorously suggests that the machines require assistance from humans to master this complex topic, using the phrase 'Oops! Looks like the machines need some guidance from us humans.'
+- The message implies that human feedback is crucial for the machines to excel in Reinforcement Learning, emphasizing the important role humans play in this process.
